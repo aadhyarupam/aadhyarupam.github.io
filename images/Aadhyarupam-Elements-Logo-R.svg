@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 284.56 70.62"
+   version="1.1">
+  <metadata
+     id="metadata47">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        opacity: 0.5;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 41.42px;
+        font-family: Bauhaus93, &quot;Bauhaus 93&quot;;
+      }
+
+      .cls-2 {
+        fill: #1b1c51;
+      }
+
+      .cls-3 {
+        fill: #ed1968;
+      }
+
+      .cls-4, .cls-9 {
+        fill: #f26531;
+      }
+
+      .cls-5 {
+        fill: #005fae;
+      }
+
+      .cls-6, .cls-8 {
+        fill: #ffde17;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        font-size: 20.71px;
+        font-family: VladimirScript, Vladimir Script;
+      }
+
+      .cls-10 {
+        font-size: 10.36px;
+        fill: #fff;
+        font-family: Calibri-Bold, Calibri;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <g
+     id="g42">
+    <g
+       id="g32"
+       transform="translate(12)">
+      <g
+         class="cls-1"
+         id="g8">
+        <text
+           class="cls-2"
+           transform="translate(1.5,36.03)"
+           id="text6">Aadhyarupam</text>
+      </g>
+      <text
+         class="cls-3"
+         transform="translate(0,34.53)"
+         id="text30">A<tspan
+   class="cls-4"
+   x="24.51"
+   y="0"
+   id="tspan10">a</tspan><tspan
+   class="cls-5"
+   x="48.869999"
+   y="0"
+   id="tspan12">d</tspan><tspan
+   class="cls-6"
+   x="72.830002"
+   y="0"
+   id="tspan14">h</tspan><tspan
+   class="cls-7"
+   x="94.980003"
+   y="0"
+   id="tspan16">y</tspan><tspan
+   class="cls-4"
+   x="117.19"
+   y="0"
+   id="tspan18">a</tspan><tspan
+   class="cls-5"
+   x="141.53999"
+   y="0"
+   id="tspan20">r</tspan><tspan
+   class="cls-8"
+   x="154.83"
+   y="0"
+   id="tspan22">u</tspan><tspan
+   class="cls-5"
+   x="177.22"
+   y="0"
+   id="tspan24">p</tspan><tspan
+   class="cls-4"
+   x="201.19"
+   y="0"
+   id="tspan26">a</tspan><tspan
+   x="225.53999"
+   y="0"
+   id="tspan28">m</tspan></text>
+    </g>
+    <g
+       id="g40"
+       transform="translate(4.0835649,-4.5134139)">
+      <ellipse
+         class="cls-4"
+         cx="270.21851"
+         cy="13.87"
+         rx="8.5385189"
+         ry="7.6399999"
+         id="ellipse36"
+         style="stroke-width:0.863929" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none"
+         x="265.2168"
+         y="18.483505"
+         id="text51"><tspan
+           id="tspan49"
+           x="265.2168"
+           y="18.483505"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#ffffff">R</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="147.43819"
+       y="62.113178"
+       id="text55"><tspan
+         id="tspan53"
+         x="147.43819"
+         y="62.113178"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Swis721 Blk BT';-inkscape-font-specification:'Swis721 Blk BT'">elements</tspan></text>
+  </g>
+</svg>
