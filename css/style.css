@@ -218,13 +218,14 @@ body {
 .hero_area {
   position: relative;
   display: flex;
-  flex-direction: column; }
+  flex-direction: column;}
 
 .sub_page .hero_area {
   min-height: auto; }
 
 .header_section {
-  background-color: #ffffff; }
+  background-color: #ffffff;
+  padding-top: 0.1rem; }
   .header_section .container-fluid {
     padding-right: 20px;
     padding-left: 20px; }
