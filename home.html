@@ -48,9 +48,6 @@
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-4ST37QQLF5');
-    function getYear(){var currentDate = new Date();var currentYear = currentDate.getFullYear();document.querySelector("#displayYear").innerHTML = currentYear;}
-    getYear();
-    function openVideoLink(url){window.open(url, '_blank');}
   </script>
 
   <!-- fonts Poppins style -->
@@ -70,12 +67,6 @@
     <header class="header_section long_section px-0">
       
       <div class="top-container">
-        <a class="navbar-brand" href="index.html">
-          <img loading="eager" class="fix-img-container" src="images/Aadhyarupam-Elements-Logo-R.svg" alt="Aadhyarupam Innovators Logo" />
-          <span>
-            &nbsp;
-          </span>
-        </a>
         
         <div class="quote_btn-container">
           <!--
@@ -115,11 +106,17 @@
         </div> 
       </div>
 
-      <nav class="navbar navbar-expand-lg custom_nav-container ">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class=""></span>
+      <nav role="menu" class="navbar navbar-expand-lg custom_nav-container ">
+        <button class="navbar-toggler p-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
         </button>
-
+        <a class="navbar-brand" href="index.html">
+          <img loading="eager" class="fix-img-container" src="images/Aadhyarupam-Elements-Logo-R.svg" alt="Aadhyarupam Innovators Logo" />
+          <span>
+            &nbsp;
+          </span>
+        </a>
+        <hr />
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <div class="d-flex mx-auto flex-column flex-lg-row align-items-center">
             <ul class="navbar-nav  ">
@@ -388,7 +385,7 @@
       <div id="Aadhyarupam_digital_Carousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active ail-purple">
-            <h4 class="top-caption">Transforming ideas into digital solutions</h4>
+            <h4 class="top-caption">Transforming ideas into solutions</h4>
             <img loading="lazy" src="images/Aadhyarupam_Digital_Transformation_900x900px.png" class="d-block w-100 mx-auto ail-carousel-img" alt="Aadhyarupam Digital Transformation Service" />
             <div class="ail-carousel-caption d-none d-md-block">
               <p class="bottom-caption">Aadhyarupam innovators simplify and accelerate digital transformation through automation, no-code development, visualization tools and cloud-native technologies.</p>
@@ -521,7 +518,7 @@
                   </svg>
                 </div>
                 <div class="feature-text bg-gradient-lightblue">
-                  <b>Code Builder</b>
+                  <b>Aadhyarupam Code Builder</b>
                   <p>
                     Customize, Extend and Integrate enterprise class
                     applications
@@ -1537,8 +1534,8 @@
   
   <!-- bootstrap js -->
   <script src="js/bootstrap.bundle.min.js"></script>
-  <!-- custom js >
-  <script src="js/ail.0124d.min.js" crossorigin="anonymous"></script-->
+  <!-- custom js -->
+  <script src="js/ail.0124d.min.js" crossorigin="anonymous"></script>
   <!-- Google Map 
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCPOnoQOETrnZrWwakt9_pI4PQm5fu021s&callback=myMap"></script>
   -->
