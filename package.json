@@ -1,24 +1,23 @@
 {
-    "name": "digital-frontend",
-    "version": "2.0.0",
-    "description": "Aadhyarupam Digital FrontEnd application",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "scss": "node-sass --watch scss -o css",
-      "obsfuscate-JS": "javascript-obfuscator js/custom.js --output js/ail.1021d.min.js --compact true --self-defending true --control-flow-flattening true --control-flow-flattening-threshold 0.75 --identifier-names-generator mangled-shuffled --string-array true --debug-protection false",
-      "minify-CSS": "css-minify -o css/ -f css/style.css",
-      "minify-HTML": "html-minifier --collapse-whitespace --remove-comments --remove-optional-tags --remove-redundant-attributes --remove-script-type-attributes --remove-tag-whitespace --use-short-doctype --minify-css true --minify-js true home.html -o index.html"
-    },
-    "keywords": [
-      "Aadhyarupam",
-      "Digital",
-      "Software",
-      "Toys",
-      "Industry 4.0",
-      "Aadhyarupam Innovators"
-    ],
-    "author": "Aadhyarupam Innovators LLP",
-    "license": "SEE LICENSE IN license"
-  }
-  
+  "name": "digital-frontend",
+  "version": "2.0.0",
+  "description": "Aadhyarupam Digital FrontEnd application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css",
+    "obsfuscate-JS": "javascript-obfuscator js/custom.js --output js/ail.0124d.min.js --compact true --self-defending true --control-flow-flattening true --control-flow-flattening-threshold 0.75 --identifier-names-generator mangled-shuffled --string-array true --debug-protection false",
+    "minify-CSS": "css-minify -o css/ -f css/style.css",
+    "minify-HTML": "html-minifier --collapse-whitespace --remove-comments --remove-optional-tags --remove-redundant-attributes --remove-script-type-attributes --remove-tag-whitespace --use-short-doctype --minify-css true --minify-js true home.html -o index.html"
+  },
+  "keywords": [
+    "Aadhyarupam",
+    "Digital",
+    "Software",
+    "Toys",
+    "Industry 4.0",
+    "Aadhyarupam Innovators"
+  ],
+  "author": "Aadhyarupam Innovators LLP",
+  "license": "SEE LICENSE IN license"
+}
